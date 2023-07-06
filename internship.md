@@ -110,6 +110,7 @@ Use any of the following network simulation software to implement the above topo
    ![Network diagram](network.png)
    #### 2. MICROSOFT REPRESENTATION.
    Here's how we designed our Microsoft Visio presentation using hierarchical network design methodology :
+   ![Network diagram](OUTLINE.png)
 
 
 
