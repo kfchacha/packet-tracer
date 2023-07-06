@@ -3,7 +3,8 @@
 ## CONTRIBUTORS.
 
 1. Kenyatta Chacha. SCT211-0032/2021
-2. Mutugi Craig Mutegi.SCT211-0015/202
+2. Mutugi Craig Mutegi.SCT211-0015/2021
+3. Magutu PH. SCT211-0030/2020
 
 ## PROJECT DESCRIPTION.
 
